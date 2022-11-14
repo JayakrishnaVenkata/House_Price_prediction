@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing my btech
 
+This website/project predicts the price of the houses in the city of bangalore.Feel free to use it.
 
 
 
